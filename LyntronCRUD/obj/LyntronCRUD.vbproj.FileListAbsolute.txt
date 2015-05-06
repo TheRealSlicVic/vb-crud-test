@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\bin\Debug\LyntronCRUD.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\bin\Debug\LyntronCRUD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\bin\Debug\LyntronCRUD.xml
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.exe
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.xml
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\LyntronCRUD\LyntronCRUD\obj\Debug\LyntronCRUD.Form1.resources
