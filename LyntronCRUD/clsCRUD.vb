@@ -1,10 +1,15 @@
 Imports Oracle.DataAccess
 
 Public Class clsCRUD
-    Dim oradb As String = "Data Source=LyntronSAND;User Id=ODBCUSER;Password=coffee;"
-    Dim dbConnOracle As New Client.OracleConnection(oradb)
-    Dim cmdOracle As New Client.OracleCommand
-    Dim daDataAdapterOracle As New Odbc.OdbcDataAdapter
+    Private gOracleDsnConnection As String = "DSN=VMFG_ORACLE;Uid=ODBCUser;Pwd=coffee;"
+    Private dtDataTable As DataTable
+    Private dsDataSet As DataSet
+
+    Private dbConnOracle As Odbc.OdbcConnection
+    Private daDataAdapterOracle As Odbc.OdbcDataAdapter
+    Private cmdOracle As Odbc.OdbcCommand
+
+    Private strSql As String
 
     Public Enum CRUD_Action
         CREATE
