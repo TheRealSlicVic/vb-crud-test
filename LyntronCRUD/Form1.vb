@@ -18,6 +18,11 @@ Public Class Form1
                 MessageBox.Show("Connection success. Read Success.")
             End If
 
+            Dim ca As New clsCRUDAction
+
+            ca.SQLAction = "UPDATE"
+            ca.SQLCommand = "UPDATE TABEL SET Col = value"
+
         Catch ex As Exception
             MessageBox.Show(ex.Message.ToString())
         Finally
